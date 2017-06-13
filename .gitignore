@@ -3,6 +3,8 @@
 .AppleDouble
 .LSOverride
 
+*.mp3
+
 # Icon must end with two \r
 Icon
 
